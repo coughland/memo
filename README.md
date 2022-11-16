@@ -1,0 +1,2 @@
+# memo
+independant newsources
